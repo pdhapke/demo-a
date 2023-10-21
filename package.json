@@ -1,0 +1,21 @@
+{
+  "name": "demo-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-file.js",
+  "scripts": {
+    "build": "cp -R src dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdhapke/demo-a.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdhapke/demo-a/issues"
+  },
+  "homepage": "https://github.com/pdhapke/demo-a#readme",
+  "dependencies": {
+  }
+}
